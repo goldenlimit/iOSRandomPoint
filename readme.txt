@@ -1,0 +1,1 @@
+GPS Sketching Sample to show the way to add points on Sketching layer
